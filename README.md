@@ -1,7 +1,6 @@
 ![Header](https://github.com/pratovv/pratovv/blob/main/assets/123.gif)
 
-## ***Hi,I am Node.js Developer 😇.***
-
+## ***Welcome.***
 <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+ready+to+work+!)
@@ -18,7 +17,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratovv&theme=dark)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratovv&show_icons=true&theme=dark)
+![Pratovv's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratovv&show_icons=true&theme=dark)
 
 <br>
 
@@ -26,6 +25,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratovv&langs_count=5&theme=dark) 
 
 
+#LeetCode
+[![Pratovv's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pratovv&theme=dark)](https://github.com/pratovv/leetcode-stats)
 
 
 
