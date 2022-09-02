@@ -1,5 +1,4 @@
 ![Header](https://github.com/pratovv/pratovv/blob/main/assets/123.gif)
-![Header](https://github.com/pratovv/pratovv/blob/main/assets/anim2.gif)
 
 ## ***Hi,I am Software Developer 😇.***
 
