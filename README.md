@@ -25,11 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratovv&langs_count=5&theme=dark) 
 
 
-#LeetCode
-[![Pratovv's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pratovv&theme=dark)](https://github.com/pratovv/leetcode-stats)
-
-
-
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/pratovv/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/pratovv/)
