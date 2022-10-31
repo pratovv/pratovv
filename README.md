@@ -3,8 +3,6 @@
 ## ***Welcome.***
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+ready+to+work+!)
-
 # Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
