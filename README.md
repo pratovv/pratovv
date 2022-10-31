@@ -1,8 +1,3 @@
-![Header](https://github.com/pratovv/pratovv/blob/main/assets/123.gif)
-
-## ***Welcome.***
-<br>
-
 # Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
