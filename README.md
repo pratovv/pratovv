@@ -1,9 +1,6 @@
 # Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
-![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql&logoColor=006488)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![TypeScript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
 
 
