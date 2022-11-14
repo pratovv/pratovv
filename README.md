@@ -17,6 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratovv&langs_count=5&theme=dark) 
 
+# LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pratovv?theme=dark&font=Days%20One&ext=activity)
 
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/pratovv/)
