@@ -25,5 +25,5 @@
 
 <p align="center"> 
   Visitor count<br>
- ![](https://komarev.com/ghpvc/?username=pratovv&color=yellow)
+ ![](https://komarev.com/ghpvc/?username=https://github.com/pratovv&color=green)
 </p>
