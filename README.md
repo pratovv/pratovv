@@ -25,5 +25,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+ ![](https://komarev.com/ghpvc/?username=pratovv&color=gold)
 </p>
