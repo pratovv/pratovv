@@ -23,7 +23,9 @@
 
 
 
+<a href=#><img src="contributions.svg"></a>
+
 <p align="center"> 
   Visitor count<br>
- ![](https://komarev.com/ghpvc/?username=https://github.com/pratovv&color=green)
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
