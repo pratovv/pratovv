@@ -7,8 +7,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratovv&theme=dark)
 
 
-![Pratovv's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratovv&show_icons=true&theme=dark)
-
 # LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pratovv?theme=dark&font=Sarabun&ext=activity)
 
