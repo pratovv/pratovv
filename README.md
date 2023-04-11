@@ -9,11 +9,6 @@
 
 ![Pratovv's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratovv&show_icons=true&theme=dark)
 
-<br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratovv&langs_count=5&theme=dark) 
-
 # LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pratovv?theme=dark&font=Sarabun&ext=activity)
 
